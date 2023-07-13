@@ -1,0 +1,5 @@
+name: YetAnotherHeads
+version: 1.0
+main: net.zatrit.yah.YetAnotherHeads
+author: zatrit
+api-version: 1.20

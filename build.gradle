@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'net.zatrit'
+version '1.0-SNAPSHOT'
+
+repositories {
+    maven { url 'https://repo.papermc.io/repository/maven-public/' }
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT'
+}
